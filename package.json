@@ -1,6 +1,7 @@
 {
   "name": "reactjs",
   "version": "0.0.0",
+  "homepage": "https://danhfa1999.github.io/reactjs-amazon-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
