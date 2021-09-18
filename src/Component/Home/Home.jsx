@@ -50,7 +50,7 @@ function Home() {
             title="Google Pixel 5 - 5G Android Phone - Water Resistant - Unlocked Smartphone with Night Sight and Ultrawide Lens - Sorta Sage"
             price={29.29}
             image="https://m.media-amazon.com/images/I/81AqwYyZjzL._AC_UY327_FMwebp_QL65_.jpg"
-            rating={3}
+            rating={1}
           />
           <Product
             title="Google Pixel 4a with 5G - Android Phone - New Unlocked Smartphone with Night Sight and Ultrawide Lens - Just Black"
@@ -62,7 +62,7 @@ function Home() {
             title="Google Pixel 4 (128GB, 6GB) 5.7', IP68 Water Resistant, Snapdragon 855, GSM/CDMA Factory "
             price={29.29}
             image="https://m.media-amazon.com/images/I/51l02S9fYmS._AC_UY327_FMwebp_QL65_.jpg "
-            rating={3}
+            rating={2}
           />
         </div>
       </div>

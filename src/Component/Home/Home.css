@@ -9,6 +9,8 @@
   margin-right: auto;
   max-width: 1500px;
 }
+.home__container {
+}
 .home__row {
   display: flex;
   z-index: 1;
